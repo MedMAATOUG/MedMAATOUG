@@ -30,7 +30,7 @@ I'm a passionate full-stack developer with a strong foundation in web developmen
 
 ## Connect with Me
 
-- 📧 Email: mohamed@example.com
+- 📧 Email: maatoug.mouhammed@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mohamedmaatoug](https://www.linkedin.com/in/mohamedmaatoug)
 - 🐦 Twitter: [@mohamedmaatoug](https://twitter.com/mohamedmaatoug)
 
