@@ -7,7 +7,7 @@ I'm a passionate full-stack developer with a strong foundation in web developmen
 - 💼 Full-Stack Developer at [TechCo](https://www.example.com)
 - 🌐 [My Portfolio](https://www.mohamedmaatoug.com)
 - 📚 Constantly learning and improving my skills
-- 🎓 Computer Science graduate from [University of Example](https://www.exampleuniversity.edu)
+- 🎓 Computer Science graduate 
 
 ## Tech Stack
 
@@ -32,6 +32,6 @@ I'm a passionate full-stack developer with a strong foundation in web developmen
 
 - 📧 Email: maatoug.mouhammed@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mohamedmaatoug](https://www.linkedin.com/in/mohamedmaatoug)
-- 🐦 Twitter: [@mohamedmaatoug](https://twitter.com/mohamedmaatoug)
+
 
 Let's collaborate, learn, and build amazing things together!
