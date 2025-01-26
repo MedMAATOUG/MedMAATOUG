@@ -4,7 +4,7 @@ I'm a passionate full-stack developer with a strong foundation in web developmen
 
 ## About Me
 
-- 💼 Full-Stack Developer at [TechCo](https://www.example.com)
+- 💼 Full-Stack Developer at [Wattnow](https://wattnow.io/)
 - 🌐 [My Portfolio](https://mohamed-maatoug.netlify.app/)
 - 📚 Constantly learning and improving my skills
 - 🎓 Computer Science graduate 
